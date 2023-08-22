@@ -1,0 +1,2 @@
+# codsoft
+TASK 1-SALES PREDICTION MODEL
